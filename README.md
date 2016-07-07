@@ -6,8 +6,10 @@ Built using VS2015 Community.
 ---
 There are a number of ways to create multiple piplines (dividing your controllers into specific “areas”). This app demonstrates 2 ways.
 
-1. By placing our controllers into a different assembly and implementing IAssembliesResolver to define which assemblies to load when looking for controllers.
-2. By deriving our contollers from different base classess and implementing DefaultHttpControllerTypeResolver to define which controllers are selected.
+|No.|Description|
+|---|-----------|
+|1. |By placing our controllers into a different assembly and implementing IAssembliesResolver to define which assemblies to load when looking for controllers.|
+|2. |By deriving our contollers from different base classess and implementing DefaultHttpControllerTypeResolver to define which controllers are selected.|
 
 This example is setup to initially implement segregation using base classes.
 
