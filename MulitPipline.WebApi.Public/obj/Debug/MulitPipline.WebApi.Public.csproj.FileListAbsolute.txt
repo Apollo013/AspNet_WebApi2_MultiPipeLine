@@ -1,0 +1,25 @@
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\MulitPipline.WebApi.Public.dll
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\MulitPipline.WebApi.Public.pdb
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\Newtonsoft.Json.dll
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\System.Net.Http.Formatting.dll
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\System.Web.Http.dll
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\System.Web.Http.WebHost.dll
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\Newtonsoft.Json.xml
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\System.Net.Http.Formatting.xml
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\System.Web.Http.xml
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\bin\Debug\System.Web.Http.WebHost.xml
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\obj\Debug\MulitPipline.WebApi.Public.dll
+C:\Apps\App Tests\WEBAPI\MulitPipline\MulitPipline.WebApi.Public\obj\Debug\MulitPipline.WebApi.Public.pdb
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\obj\Debug\MulitPipline.WebApi.Public.csprojResolveAssemblyReference.cache
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\obj\Debug\MulitPipline.WebApi.Public.dll
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\obj\Debug\MulitPipline.WebApi.Public.pdb
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\MulitPipline.WebApi.Public.dll
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\MulitPipline.WebApi.Public.pdb
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\Newtonsoft.Json.dll
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\System.Net.Http.Formatting.dll
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\System.Web.Http.dll
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\System.Web.Http.WebHost.dll
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\Newtonsoft.Json.xml
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\System.Net.Http.Formatting.xml
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\System.Web.Http.xml
+C:\Apps\Published\Web_API_2_Multi_Pipeline_Example\MulitPipline.WebApi.Public\bin\Debug\System.Web.Http.WebHost.xml
