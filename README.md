@@ -16,8 +16,8 @@ This example is setup to initially implement segregation using base classes.
 ---
 
 #####To Test
-| |Step|
-|-|----|
+|No. |Step|
+|----|----|
 | |Open the project in visual studion 2015 and press ctrl-f5 to run|
 | |In Fidler, issue either of the following GET requests|
 |1.| http://localhost:[YOUR_PORT_NUMBER_HERE]/admin/test|
