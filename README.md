@@ -16,12 +16,12 @@ This example is setup to initially implement segregation using base classes.
 ---
 
 #####To Test
-Open the project in visual studion 2015 and press ctrl-f5 to run
-
-In Fidler, issue either of the following GET requests
-
-1. http://localhost:[YOUR_PORT_NUMBER_HERE]/admin/test
-2. http://localhost:[YOUR_PORT_NUMBER_HERE]/public/test
+| |Step|
+|-|----|
+| |Open the project in visual studion 2015 and press ctrl-f5 to run|
+| |In Fidler, issue either of the following GET requests|
+|1.| http://localhost:[YOUR_PORT_NUMBER_HERE]/admin/test|
+|2.| http://localhost:[YOUR_PORT_NUMBER_HERE]/public/test|
 
 Be sure to replace the port number.
 
