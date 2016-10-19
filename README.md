@@ -1,5 +1,5 @@
-# WebApi2_MultiPipeLine
-A small ASP.NET that demonstrates how to configure a WEB API project to have multiple piplines and specify what controllers to use for each. Requires Fiddler or POSTMAN to test.
+# AspNet_WebApi2_MultiPipeLine
+A small ASP.NET app that demonstrates how to configure a WEB API project to have multiple piplines and specify what controllers to use for each. Requires Fiddler or POSTMAN to test.
 
 Built using VS2015 Community.
 
